@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "fregejs": "^0.3.0",
+    "tsx": "^3.13.0"
+  },
+  "type": "module",
+  "name": "frege-template",
+  "description": "",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
