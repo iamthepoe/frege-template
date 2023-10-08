@@ -1,3 +1,5 @@
+/** RUN 'yarn snack' TO EXECUTE THE CODE **/
+
 import { conjunction, disjunction, frege, implication, Implication, negation, printTruthTable, Proof, TruthTable } from "fregejs";
 
 console.log(`
